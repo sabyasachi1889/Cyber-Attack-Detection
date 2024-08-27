@@ -2,7 +2,7 @@
 Machine learning based cyberattack detection in network traffic.
 
 ## Context
-- This works is part of the subject Security Analytics, 2020 Semester 2, The University of Melbourne.
+- This works is part of my B.Tech degree final year project in Dr. B. C. Roy Engineering College,  Durgapur, 2024.
 - It was a personal assessment (no group project).
 
 ## Files
